@@ -2,6 +2,9 @@
 
 This repository contains an implementation of a neural network for classifying handwritten digits using the MNIST dataset.
 
+![photo_2024-07-13_21-08-59 ](https://github.com/user-attachments/assets/bfa3171b-e355-49df-bbb5-22d3783f0a36)
+
+
 ## Project Overview
 
 The goal of this project is to build a neural network model that can accurately classify images of handwritten digits (0-9) from the MNIST dataset. The project includes the following steps:
